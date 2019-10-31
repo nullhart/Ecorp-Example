@@ -6,7 +6,7 @@
 * Node.js 12
 
 # Getting Started
-
+* Create .env file with this content: "mongoString=mongodb://localhost/test"
 * run "yarn" to grab required NPM packages
 * run "yarn dev" to start Dev DB/Node Server
 * Run "yarn loadData" in second terminal to import example data
